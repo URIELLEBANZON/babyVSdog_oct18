@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# DogVsWolf_Oct18
+#
+
+projectname: DogVsWolf_Oct18
+vendorid: com.mycompany
+mainmodule: com.mycompany.dogvswolfoct18
